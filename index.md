@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+Blog-PowerShell | Where{$_.Content -eq 'Helpful'}: "Welcome to my blog."
 ---
 
-I'm glad you are here. I plan to talk about ...
+I've been automating everything from Windows Servers to Active Directory to Exchange to Azure for over a decade with PowerShell.  Before that I spent a decade automating everything possible with VBScript - but that another story all-together.  Hopefully I can pass on some of the things I've learned to help make your life a little better.
