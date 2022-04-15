@@ -1,3 +1,4 @@
+theme: minima
 title: Blog-PowerShell | Where{$_.Content -ge 'Helpful'}
 author: Cameron Ove
 email: cameronove@gmail.com
